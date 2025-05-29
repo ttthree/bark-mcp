@@ -1,0 +1,4 @@
+bark_mcp.egg-info/
+dist/
+.vscode/
+__pycache__/
